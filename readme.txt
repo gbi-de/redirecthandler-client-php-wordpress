@@ -1,7 +1,6 @@
 === Plugin Name ===
-Contributors: (this should be a list of wordpress.org userid's)
-Donate link: http://example.com/
-Tags: comments, spam
+Contributors: Goldbach-Interactive
+Tags: redirecthandler, goldbach
 Requires at least: 4.3
 Tested up to: 4.3.1
 Stable tag: 4.3
